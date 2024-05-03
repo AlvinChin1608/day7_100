@@ -36,7 +36,8 @@ for i, letter in enumerate(chosen_word):
   else:
     print("Right")
 """
-# Solution 2 for Todo 3 challenge.. ^^^ just realised the above code was unnecessarily complicated 
+# Solution 2 for Todo 3 challenge.. ^^^ just realised the above code 
+# was unnecessarily complicated. I learnt that from stackoverflow
 
 for letter in chosen_word:
   if letter == guess:
